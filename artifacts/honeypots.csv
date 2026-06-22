@@ -1,0 +1,49 @@
+candidate_id,severity,num_violations,num_hard,rules,details
+CAND_0016000,HARD,5,5,skill.proficient_zero_duration,skill.proficient_zero_duration: skill='TypeScript' prof=expert dur=0 | skill.proficient_zero_duration: skill='Go' prof=expert dur=0 | skill.proficient_zero_duration: skill='Docker' prof=expert dur=0 | skill.proficient_zero_duration: skill='Hadoop' prof=expert dur=0 | skill.proficient_zero_duration: skill='Photoshop' prof=expert dur=0
+CAND_0046649,HARD,5,5,skill.proficient_zero_duration,skill.proficient_zero_duration: skill='SAP' prof=expert dur=0 | skill.proficient_zero_duration: skill='Node.js' prof=expert dur=0 | skill.proficient_zero_duration: skill='gRPC' prof=expert dur=0 | skill.proficient_zero_duration: skill='Flask' prof=expert dur=0 | skill.proficient_zero_duration: skill='Hadoop' prof=expert dur=0
+CAND_0056983,HARD,5,5,skill.proficient_zero_duration,skill.proficient_zero_duration: skill='Rust' prof=expert dur=0 | skill.proficient_zero_duration: skill='Next.js' prof=expert dur=0 | skill.proficient_zero_duration: skill='Redis' prof=expert dur=0 | skill.proficient_zero_duration: skill='Salesforce CRM' prof=expert dur=0 | skill.proficient_zero_duration: skill='MongoDB' prof=expert dur=0
+CAND_0060642,HARD,5,5,skill.proficient_zero_duration,skill.proficient_zero_duration: skill='Milvus' prof=expert dur=0 | skill.proficient_zero_duration: skill='Agile' prof=expert dur=0 | skill.proficient_zero_duration: skill='Azure' prof=expert dur=0 | skill.proficient_zero_duration: skill='Diffusion Models' prof=expert dur=0 | skill.proficient_zero_duration: skill='MongoDB' prof=expert dur=0
+CAND_0061722,HARD,5,5,skill.proficient_zero_duration,skill.proficient_zero_duration: skill='Terraform' prof=expert dur=0 | skill.proficient_zero_duration: skill='GANs' prof=expert dur=0 | skill.proficient_zero_duration: skill='Milvus' prof=expert dur=0 | skill.proficient_zero_duration: skill='MongoDB' prof=expert dur=0 | skill.proficient_zero_duration: skill='Speech Recognition' prof=expert dur=0
+CAND_0063888,HARD,5,5,skill.proficient_zero_duration,skill.proficient_zero_duration: skill='Project Management' prof=expert dur=0 | skill.proficient_zero_duration: skill='Accounting' prof=expert dur=0 | skill.proficient_zero_duration: skill='MLOps' prof=expert dur=0 | skill.proficient_zero_duration: skill='React' prof=expert dur=0 | skill.proficient_zero_duration: skill='Webpack' prof=expert dur=0
+CAND_0070429,HARD,5,5,skill.proficient_zero_duration,skill.proficient_zero_duration: skill='MLOps' prof=expert dur=0 | skill.proficient_zero_duration: skill='Figma' prof=expert dur=0 | skill.proficient_zero_duration: skill='Accounting' prof=expert dur=0 | skill.proficient_zero_duration: skill='YOLO' prof=expert dur=0 | skill.proficient_zero_duration: skill='Java' prof=expert dur=0
+CAND_0073853,HARD,5,5,skill.proficient_zero_duration,skill.proficient_zero_duration: skill='CI/CD' prof=expert dur=0 | skill.proficient_zero_duration: skill='Marketing' prof=expert dur=0 | skill.proficient_zero_duration: skill='GCP' prof=expert dur=0 | skill.proficient_zero_duration: skill='Excel' prof=expert dur=0 | skill.proficient_zero_duration: skill='AWS' prof=expert dur=0
+CAND_0033817,HARD,4,4,skill.proficient_zero_duration,skill.proficient_zero_duration: skill='JavaScript' prof=expert dur=0 | skill.proficient_zero_duration: skill='BigQuery' prof=expert dur=0 | skill.proficient_zero_duration: skill='Six Sigma' prof=expert dur=0 | skill.proficient_zero_duration: skill='gRPC' prof=expert dur=0
+CAND_0046689,HARD,4,4,skill.proficient_zero_duration,skill.proficient_zero_duration: skill='Node.js' prof=expert dur=0 | skill.proficient_zero_duration: skill='SQL' prof=expert dur=0 | skill.proficient_zero_duration: skill='gRPC' prof=expert dur=0 | skill.proficient_zero_duration: skill='Spark' prof=expert dur=0
+CAND_0065096,HARD,4,4,skill.proficient_zero_duration,skill.proficient_zero_duration: skill='ETL' prof=expert dur=0 | skill.proficient_zero_duration: skill='Tally' prof=expert dur=0 | skill.proficient_zero_duration: skill='Flask' prof=expert dur=0 | skill.proficient_zero_duration: skill='Rust' prof=expert dur=0
+CAND_0072379,HARD,4,4,skill.proficient_zero_duration,skill.proficient_zero_duration: skill='Azure' prof=expert dur=0 | skill.proficient_zero_duration: skill='Redux' prof=expert dur=0 | skill.proficient_zero_duration: skill='Illustrator' prof=expert dur=0 | skill.proficient_zero_duration: skill='Spark' prof=expert dur=0
+CAND_0095480,HARD,4,4,skill.proficient_zero_duration,skill.proficient_zero_duration: skill='Agile' prof=expert dur=0 | skill.proficient_zero_duration: skill='React' prof=expert dur=0 | skill.proficient_zero_duration: skill='Snowflake' prof=expert dur=0 | skill.proficient_zero_duration: skill='Content Writing' prof=expert dur=0
+CAND_0003582,HARD,3,3,skill.proficient_zero_duration,skill.proficient_zero_duration: skill='MLflow' prof=expert dur=0 | skill.proficient_zero_duration: skill='Photoshop' prof=expert dur=0 | skill.proficient_zero_duration: skill='Content Writing' prof=expert dur=0
+CAND_0033972,HARD,3,3,skill.proficient_zero_duration,skill.proficient_zero_duration: skill='Airflow' prof=expert dur=0 | skill.proficient_zero_duration: skill='OpenCV' prof=expert dur=0 | skill.proficient_zero_duration: skill='Figma' prof=expert dur=0
+CAND_0036839,HARD,3,3,skill.proficient_zero_duration,skill.proficient_zero_duration: skill='SAP' prof=expert dur=0 | skill.proficient_zero_duration: skill='GCP' prof=expert dur=0 | skill.proficient_zero_duration: skill='Rust' prof=expert dur=0
+CAND_0042245,HARD,3,3,skill.proficient_zero_duration,skill.proficient_zero_duration: skill='Databricks' prof=expert dur=0 | skill.proficient_zero_duration: skill='BentoML' prof=expert dur=0 | skill.proficient_zero_duration: skill='Vue.js' prof=expert dur=0
+CAND_0048740,HARD,3,3,skill.proficient_zero_duration,skill.proficient_zero_duration: skill='gRPC' prof=expert dur=0 | skill.proficient_zero_duration: skill='Angular' prof=expert dur=0 | skill.proficient_zero_duration: skill='Content Writing' prof=expert dur=0
+CAND_0055792,HARD,3,3,skill.proficient_zero_duration,skill.proficient_zero_duration: skill='Scrum' prof=expert dur=0 | skill.proficient_zero_duration: skill='TTS' prof=expert dur=0 | skill.proficient_zero_duration: skill='LoRA' prof=expert dur=0
+CAND_0095140,HARD,3,3,skill.proficient_zero_duration,skill.proficient_zero_duration: skill='Kafka' prof=expert dur=0 | skill.proficient_zero_duration: skill='QLoRA' prof=expert dur=0 | skill.proficient_zero_duration: skill='CNN' prof=expert dur=0
+CAND_0095317,HARD,3,3,skill.proficient_zero_duration,skill.proficient_zero_duration: skill='Webpack' prof=expert dur=0 | skill.proficient_zero_duration: skill='Figma' prof=expert dur=0 | skill.proficient_zero_duration: skill='dbt' prof=expert dur=0
+CAND_0003430,HARD,1,1,career.yoe_exceeds_span,career.yoe_exceeds_span: YOE=13.7 (~164m) > career span ~22m
+CAND_0005291,HARD,1,1,career.yoe_exceeds_span,career.yoe_exceeds_span: YOE=12.8 (~153m) > career span ~40m
+CAND_0007413,HARD,1,1,career.yoe_exceeds_span,career.yoe_exceeds_span: YOE=13.3 (~159m) > career span ~50m
+CAND_0010770,HARD,1,1,career.yoe_exceeds_span,career.yoe_exceeds_span: YOE=15.2 (~182m) > career span ~93m
+CAND_0013536,HARD,1,1,career.yoe_exceeds_span,career.yoe_exceeds_span: YOE=14.1 (~169m) > career span ~63m
+CAND_0019480,HARD,1,1,career.worked_far_exceeds_yoe,career.worked_far_exceeds_yoe: worked ~93m but YOE only 2.8
+CAND_0024752,HARD,1,1,career.yoe_exceeds_span,career.yoe_exceeds_span: YOE=14.9 (~178m) > career span ~54m
+CAND_0025579,HARD,1,1,career.yoe_exceeds_span,career.yoe_exceeds_span: YOE=12.9 (~154m) > career span ~33m
+CAND_0033131,HARD,1,1,career.yoe_exceeds_span,career.yoe_exceeds_span: YOE=12.7 (~152m) > career span ~40m
+CAND_0036299,HARD,1,1,career.yoe_exceeds_span,career.yoe_exceeds_span: YOE=12.2 (~146m) > career span ~51m
+CAND_0037000,HARD,1,1,career.worked_far_exceeds_yoe,career.worked_far_exceeds_yoe: worked ~81m but YOE only 2.7
+CAND_0038431,HARD,1,1,career.yoe_exceeds_span,career.yoe_exceeds_span: YOE=15.0 (~180m) > career span ~51m
+CAND_0039754,HARD,1,1,career.yoe_exceeds_span,career.yoe_exceeds_span: YOE=16.2 (~194m) > career span ~104m
+CAND_0052478,HARD,1,1,career.yoe_exceeds_span,career.yoe_exceeds_span: YOE=12.4 (~148m) > career span ~23m
+CAND_0055992,HARD,1,1,career.yoe_exceeds_span,career.yoe_exceeds_span: YOE=16.9 (~202m) > career span ~86m
+CAND_0065787,HARD,1,1,career.yoe_exceeds_span,career.yoe_exceeds_span: YOE=10.9 (~130m) > career span ~39m
+CAND_0066405,HARD,1,1,career.yoe_exceeds_span,career.yoe_exceeds_span: YOE=12.3 (~147m) > career span ~38m
+CAND_0071115,HARD,1,1,career.yoe_exceeds_span,career.yoe_exceeds_span: YOE=16.5 (~198m) > career span ~75m
+CAND_0074119,HARD,1,1,career.yoe_exceeds_span,career.yoe_exceeds_span: YOE=11.4 (~136m) > career span ~32m
+CAND_0077250,HARD,1,1,career.yoe_exceeds_span,career.yoe_exceeds_span: YOE=13.1 (~157m) > career span ~39m
+CAND_0086808,HARD,1,1,career.yoe_exceeds_span,career.yoe_exceeds_span: YOE=11.4 (~136m) > career span ~26m
+CAND_0090900,HARD,1,1,career.yoe_exceeds_span,career.yoe_exceeds_span: YOE=11.7 (~140m) > career span ~45m
+CAND_0091068,HARD,1,1,career.yoe_exceeds_span,career.yoe_exceeds_span: YOE=12.7 (~152m) > career span ~34m
+CAND_0091534,HARD,1,1,career.yoe_exceeds_span,career.yoe_exceeds_span: YOE=16.6 (~199m) > career span ~94m
+CAND_0093331,HARD,1,1,career.yoe_exceeds_span,career.yoe_exceeds_span: YOE=16.1 (~193m) > career span ~93m
+CAND_0095619,HARD,1,1,career.yoe_exceeds_span,career.yoe_exceeds_span: YOE=15.6 (~187m) > career span ~56m
+CAND_0096150,HARD,1,1,career.yoe_exceeds_span,career.yoe_exceeds_span: YOE=14.7 (~176m) > career span ~32m
